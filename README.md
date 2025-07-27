@@ -93,11 +93,9 @@ These are useful for tasks like counting, conditional repetition, and input vali
 * Stop
 
 ---
-Here are the **algorithms** for the four loop-based pattern programs you provided, written in the format suitable for your experiment record:
-
 ---
 
-### **1. Algorithm for Inverted Right-Angled Triangle of Asterisks**
+### **4. Algorithm for Inverted Right-Angled Triangle of Asterisks**
 
 **Aim:** To print an inverted right-angled triangle pattern using nested `for` loops.
 
@@ -114,7 +112,7 @@ Here are the **algorithms** for the four loop-based pattern programs you provide
 
 ---
 
-### **2. Algorithm for Pyramid Pattern of Asterisks**
+### **5. Algorithm for Pyramid Pattern of Asterisks**
 
 **Aim:** To print a pyramid pattern of asterisks using spaces and nested `for` loops.
 
@@ -135,7 +133,7 @@ Here are the **algorithms** for the four loop-based pattern programs you provide
 
 ---
 
-### **3. Algorithm for Triangle Number Pattern**
+### **6. Algorithm for Triangle Number Pattern**
 
 **Aim:** To print a triangle of increasing numbers using nested `for` loops.
 
@@ -154,7 +152,7 @@ Here are the **algorithms** for the four loop-based pattern programs you provide
 
 ---
 
-### **4. Algorithm for Right-Angled Triangle with Space Before Asterisks**
+### **7. Algorithm for Right-Angled Triangle with Space Before Asterisks**
 
 **Aim:** To print a right-angled triangle with space before each asterisk.
 

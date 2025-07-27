@@ -1,4 +1,4 @@
-**updated Experiment 7: Loops in C++** with the new algorithms replacing the previous ones, maintaining the same structure and style as your earlier experiment:
+**Experiment 7: Loops in C++** with the new algorithms replacing the previous ones, maintaining the same structure and style as your earlier experiment:
 
 ---
 

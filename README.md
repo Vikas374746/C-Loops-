@@ -1,4 +1,4 @@
-### **Experiment 7: Loops in C++**
+### **Experiment 6: Loops in C++**
 
 **Title of the Experiment:**
 To study and implement different types of loops in C++ such as `for` and `while` for repetitive execution.
